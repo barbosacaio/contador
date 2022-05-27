@@ -3,9 +3,9 @@
 </h2>
 
 <h3>Landing Page</h3>
-<img alt="landingpage-preview" src="https://imgur.com/a/eWkSXaE">
+<img alt="landingpage-preview" src="https://i.imgur.com/NVhJK1D.png">
 <br><h3>Números Negativos</h3>
-<img alt="numerosnegativos-preview" src="https://imgur.com/a/CtHlJrt">
+<img alt="numerosnegativos-preview" src="https://i.imgur.com/zVblAkx.png">
 <br><h3>Números Positivos</h3>
-<img alt="numerospositivos-preview" src="https://imgur.com/a/m5oIWSy">
+<img alt="numerospositivos-preview" src="https://i.imgur.com/5KgUMje.png">
 <br>
