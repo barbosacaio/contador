@@ -1,0 +1,58 @@
+*{
+    font-family: "Lato", Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: rgb(245, 245, 245);
+}
+
+.container{
+    /* Afastar o conteúdo todo do topo */
+    padding-top: 12%;
+}
+
+#contador-titulo{
+    color: #222;
+    font-size: 45px;
+}
+
+#valor{
+    font-size: 70px;
+    color: #222;
+}
+
+.botao{
+    /* Afastar os botões do contador */
+    margin-top: 2%;
+    /* Afastar os botões */
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+    /* Gerar um espaço entre o texto e a borda */
+    padding: 0.8%;
+    /* Mudar a cor dos botões */
+    background-color: rgb(240, 240, 240);
+    /* Mudar as bordas */
+    border-color: rgb(215, 215, 215); /* Alterar a cor das bordas */
+    border-radius: 8%; /* Suavizar as bordas */
+    /* Mudar tamanho do texto dos botões */
+    font-size: 15px;
+}
+
+/* Mudar cada botão */
+.diminuir{
+    color: rgb(250, 50, 50);
+}
+.aumentar{
+    color: rgb(35, 110, 35);
+}
+
+/* Mudar a cor da borda dos botões quando se passa por cima com o mouse */
+.diminuir:hover{
+    border-color: rgb(250, 50, 50);
+}
+.reiniciar:hover{
+    border-color: #222;
+}
+.aumentar:hover{
+    border-color: rgb(35, 110, 35);
+}
